@@ -6,3 +6,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 2.Find The Number of Distinct Colors Among The Balls
 
 3.Design A Number Container System
+
+4.Count Number Of Bad Pairs
