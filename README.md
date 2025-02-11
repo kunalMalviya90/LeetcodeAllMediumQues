@@ -8,3 +8,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 3.Design A Number Container System
 
 4.Count Number Of Bad Pairs
+
+5.Remove All Occurrences of a Substring
