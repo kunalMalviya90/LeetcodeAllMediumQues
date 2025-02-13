@@ -10,3 +10,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 4.Count Number Of Bad Pairs
 
 5.Remove All Occurrences of a Substring
+
+6.Minimum Operations To Exceed Threshold Value II
