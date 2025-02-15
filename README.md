@@ -14,3 +14,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 6.Minimum Operations To Exceed Threshold Value II
 
 7.Product Of The Last k Numbers
+
+8.Find The Punishment Number Of An Integer
