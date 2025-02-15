@@ -7,7 +7,7 @@ class Solution {
                 ans += x;
             }
         }
-        return ans;
+        return ans; 
     }
 
     private boolean check(String s, int i, int x) {
