@@ -16,3 +16,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 7.Product Of The Last k Numbers
 
 8.Find The Punishment Number Of An Integer
+
+9.Construct The Lexicographically Largest Valid Sequence
