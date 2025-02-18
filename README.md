@@ -20,3 +20,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 9.Construct The Lexicographically Largest Valid Sequence
 
 10.Letter Tile Possibilities
+
+11.Construct Smallest Number From DI String
