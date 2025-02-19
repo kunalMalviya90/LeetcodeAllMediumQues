@@ -22,3 +22,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 10.Letter Tile Possibilities
 
 11.Construct Smallest Number From DI String
+
+12.The k-th Lexicographical String Of All Happy Strings of Length n
