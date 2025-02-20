@@ -8,7 +8,7 @@ class Solution {
                     ++cnt;
                 }
             }
-            mask |= 1 << cnt;
+            mask |= 1 << cnt; 
         }
         for (int i = 0;; ++i) {
             if ((mask >> i & 1) == 0) {
