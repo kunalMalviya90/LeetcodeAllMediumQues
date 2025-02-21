@@ -26,3 +26,5 @@ All Medium Level Questions Of Leetcode in DSA Java
 12.The k-th Lexicographical String Of All Happy Strings of Length n
 
 13.Find Unique Binary String
+
+14.Find Elements in a Contaminated Binary Tree
